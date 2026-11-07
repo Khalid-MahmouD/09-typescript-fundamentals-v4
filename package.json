@@ -1,0 +1,12 @@
+{
+  "name": "09-typescript-fundamentals-v4",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "tsc": "tsc",
+    "check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5"
+  }
+}
