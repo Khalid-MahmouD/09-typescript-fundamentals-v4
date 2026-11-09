@@ -1,7 +1,6 @@
 // Checkpoint 009 - Types As Sets And Inference
 // GYM note: 009-Checkpoint Types As Sets And Inference.md
 // Method: prediction FIRST as a comment, then code, then verdict (✓/✗ + error code).
-// Slots (d), (e), (f) still have empty prediction slots - fill them BEFORE compiling.
 
 // (a) prediction: a infers number — the big set — so I can reassign any number later.
 //     result: ✓ no error. Hovering a shows: let a: number
